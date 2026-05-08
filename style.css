@@ -57,7 +57,7 @@ background-color: transparent;
 /* You must set a specified height */
  display: block; margin: auto auto auto auto; z-index: -200; border-radius:10px;
 filter: brightness(105%) saturate(105%) contrast(105%) opacity(75%);
-
+border: solid 1px gray;
 
 width: 355px; height: 370px;
 
@@ -72,7 +72,7 @@ width: 355px; height: 370px;
 filter: brightness(105%) saturate(105%) contrast(105%) opacity(75%);
 
  display: block; margin: auto auto auto auto; z-index: -200; border-radius:10px;
-width: 355px; height: 370px;
+width: 355px; height: 370px;border: solid 1px gray;
 }
 
 
